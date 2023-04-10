@@ -1,5 +1,5 @@
-interface HomeProps {}
+import { db } from "@/lib/db";
 
-export default function Home({}: HomeProps): JSX.Element {
+export default async function Home() {
   return <div>Home</div>;
 }
