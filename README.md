@@ -1,6 +1,6 @@
 This project uses Next13 with the experimental app directory, TailwindCSS, Upstash with Redis, and NextAuth.
 
-It follows [this YouTube tutorial by `Josh tried coding`](https://www.youtube.com/watch?v=NlXfg5Pxxh8)
+It follows [this YouTube tutorial by `Josh tried coding`](https://www.youtube.com/watch?v=NlXfg5Pxxh8).
 
 ## Getting Started
 
@@ -13,6 +13,8 @@ yarn dev
 # or
 pnpm dev
 ```
+
+(But really, PNPM is the clearly superior option).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
